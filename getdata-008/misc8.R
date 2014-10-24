@@ -110,6 +110,7 @@ write.table(XyTR,"m/XyTstTrn.txt", col.names=F)
 
 ###################################
 
+##dynamically pullout all the mean and stddev 
 flds<-read.table("features.txt", header=F)
 flds<-read.table("features.txt", header=F, stringsAsFactors=F)
 library(sqldf)
@@ -118,10 +119,11 @@ write.table(j1, file="m/meandtd_features.txt", row.names=F, col.names=F)
 ##Keep the column map for new codebook with all mean and stddev values
 write.table(co,"m/meanstd_fatures_withMeanstdIdxMap.txt", col.names=F, row.names=T)
 
+##read the mean std features and create data frame with mean and std columns
 co<-read.table("m/meandtd_features.txt", header=F, stringsAsFactors=F)
-mycol<-paste("V",co[,1],sep="")
-head(XyTRchk[,mycol])
-XyTRmeanstd<-XyTRchk[,mycol]
+mycols<-paste("V",co[,1],sep="")
+head(XyTRchk[,mycols])
+XyTRmeanstd<-XyTRchk[,mycols]
 write.table(XyTRmeanstd, 'm/XyTRmeanstd.txt', col.names=F,row.names=F)
 
 
