@@ -125,5 +125,16 @@ mycols<-paste("V",co[,1],sep="")
 head(XyTRchk[,mycols])
 XyTRmeanstd<-XyTRchk[,mycols]
 write.table(XyTRmeanstd, 'm/XyTRmeanstd.txt', col.names=F,row.names=F)
+t=read.table("m/XyTRmeanstd.txt", header=F)
+tc=read.table("m/meanstd_fatures_withMeanstdIdxMap.txt", header=F)
+colnames<- as.vector(tc[,3])
+colnames(t) <- colnames
+s<-read.csv("m/subject.csv", header=T)
+
+final<-cbind(t,s)
+
+
+
+
 
 
