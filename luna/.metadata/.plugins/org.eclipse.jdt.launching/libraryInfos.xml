@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk" version="1.6.0_24">
+<bootpath>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/resources.jar"/>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/rt.jar"/>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/jce.jar"/>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/modules/jdk.boot.jar"/>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/product/oem12c/agent/core/12.1.0.1.0/jdk/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64" version="1.6.0_34">
+<bootpath>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/resources.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/rt.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/sunrsasign.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/jsse.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/jce.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/charsets.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/jfr.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/netx.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/plugin.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/rhino.jar"/>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.34.x86_64/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/product/oem12c/oms/jdk" version="1.6.0_24">
+<bootpath>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/resources.jar"/>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/rt.jar"/>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/jce.jar"/>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/modules/jdk.boot.jar"/>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/product/oem12c/oms/jdk/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/product/oem12c/Oracle_WT/jdk" version="1.6.0_24">
+<bootpath>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/resources.jar"/>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/rt.jar"/>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/jce.jar"/>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/modules/jdk.boot.jar"/>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/product/oem12c/Oracle_WT/jdk/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/product/oem12c/jdk16/jdk" version="1.6.0_24">
+<bootpath>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/resources.jar"/>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/rt.jar"/>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/jce.jar"/>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/modules/jdk.boot.jar"/>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/product/oem12c/jdk16/jdk/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/Visual_Paradigm_11.1" version="1.7.0_40">
+<bootpath>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/resources.jar"/>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/rt.jar"/>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/jce.jar"/>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/jfr.jar"/>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/Visual_Paradigm_11.1/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/java/jdk1.7.0_09" version="1.7.0_09">
+<bootpath>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/resources.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/rt.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/jce.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/jfr.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/java/jdk1.7.0_09/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/product/oem12c/oracle_common/jdk" version="1.6.0_14">
+<bootpath>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/resources.jar"/>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/rt.jar"/>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/jce.jar"/>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/product/oem12c/oracle_common/jdk/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/java/jdk1.7.0_45" version="1.7.0_45">
+<bootpath>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/resources.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/rt.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/jsse.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/jce.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/charsets.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/jfr.jar"/>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/java/jdk1.7.0_45/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/oracle/Pentaho/java" version="1.7.0_60">
+<bootpath>
+<entry path="/home/oracle/Pentaho/java/lib/resources.jar"/>
+<entry path="/home/oracle/Pentaho/java/lib/rt.jar"/>
+<entry path="/home/oracle/Pentaho/java/lib/sunrsasign.jar"/>
+<entry path="/home/oracle/Pentaho/java/lib/jsse.jar"/>
+<entry path="/home/oracle/Pentaho/java/lib/jce.jar"/>
+<entry path="/home/oracle/Pentaho/java/lib/charsets.jar"/>
+<entry path="/home/oracle/Pentaho/java/lib/jfr.jar"/>
+<entry path="/home/oracle/Pentaho/java/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/oracle/Pentaho/java/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/oracle/Pentaho/java/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

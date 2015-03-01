@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+ch2_p0|/home/oracle/workspace/programmingpython/ch2_p0.py
+dump_db_names|/home/oracle/workspace/programmingpython/dump_db_names.py
+initdata|/home/oracle/workspace/programmingpython/initdata.py
+load_db_file|/home/oracle/workspace/programmingpython/load_db_file.py
+load_db_pickle|/home/oracle/workspace/programmingpython/load_db_pickle.py
+load_db_shelve|/home/oracle/workspace/programmingpython/load_db_shelve.py
+make_db_file|/home/oracle/workspace/programmingpython/make_db_file.py
+make_db_pickle|/home/oracle/workspace/programmingpython/make_db_pickle.py
+make_db_shelve|/home/oracle/workspace/programmingpython/make_db_shelve.py
+manager_class|/home/oracle/workspace/programmingpython/manager_class.py
+person_class|/home/oracle/workspace/programmingpython/person_class.py
+writeback_db_shelve|/home/oracle/workspace/programmingpython/writeback_db_shelve.py

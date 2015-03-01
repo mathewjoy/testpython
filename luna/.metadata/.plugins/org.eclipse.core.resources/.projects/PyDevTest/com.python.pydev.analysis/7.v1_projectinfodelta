@@ -1,0 +1,6 @@
+INSTUPmypkg1.mymod1
+/home/oracle/workspace/pydevtest/mypkg1/mymod1.py
+INFOS:&&1|1|2|0&&2|3|2|1
+__init__=3
+MyClass=1
+mypkg1.mymod1=2

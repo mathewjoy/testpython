@@ -1,0 +1,64 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/oracle/workspace/luna/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgrammingPython/com.python.pydev.analysis/v2_indexcache
+dump_db_names|1423625618000|/home/oracle/workspace/programmingpython/dump_db_names.py
+make_db_file|1423625582000|/home/oracle/workspace/programmingpython/make_db_file.py
+make_db_pickle|1423538930000|/home/oracle/workspace/programmingpython/make_db_pickle.py
+load_db_shelve|1423543052000|/home/oracle/workspace/programmingpython/load_db_shelve.py
+load_db_file|1423625555000|/home/oracle/workspace/programmingpython/load_db_file.py
+initdata|1423450382000|/home/oracle/workspace/programmingpython/initdata.py
+writeback_db_shelve|1423541593000|/home/oracle/workspace/programmingpython/writeback_db_shelve.py
+make_db_shelve|1423541593000|/home/oracle/workspace/programmingpython/make_db_shelve.py
+load_db_pickle|1423541193000|/home/oracle/workspace/programmingpython/load_db_pickle.py
+manager_class|1423890438000|/home/oracle/workspace/programmingpython/manager_class.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+9=make_db_file
+6=dump_db_names
+7=make_db_pickle
+4=load_db_shelve
+11=Manager
+8=load_db_file
+1=initdata
+5=writeback_db_shelve
+3=make_db_shelve
+2=load_db_pickle
+10=manager_class
+-- END DICTIONARY
+-- START TREE 1
+16
+bob|1|bob!11@
+db|6|db!19@db!11@db!27@db!35@db!43@db!51@
+dbf|2|dbf!19@dbf!59@
+end|4|ENDDB!67@ENDREC!67@ENDDB!75@ENDREC!75@
+fil|4|file_name!35@file_name!75@file_name!67@file_name!19@
+loa|1|loadDb!66@
+man|1|Manager!81@
+per|0|
+pic|1|pickle_fn!59@
+rec|2|RECSEP!75@RECSEP!67@
+sue|2|sue!11@sue!35@
+tom|1|tom!11@
+wri|1|writeDb!74@
+x|0|
+xdb|0|
+xx|0|
+-- END TREE
+-- START TREE 2
+14
+!<m|0|
+__i|1|__init__!11&82@
+__s|0|
+age|0|
+bob|0|
+giv|1|giveRaise!11&82@
+job|0|
+las|1|lastName!11&82@
+nam|0|
+pay|0|
+sue|0|
+tom|0|
+x|0|
+xx|0|
+-- END TREE
