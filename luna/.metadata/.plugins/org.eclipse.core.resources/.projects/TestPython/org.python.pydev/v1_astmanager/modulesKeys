@@ -1,6 +1,3 @@
 MODULES_MANAGER_V2
-bin.activate_this|/home/oracle/workspace/flask_catalog/bin/activate_this.py
 my_app.__init__|/home/oracle/workspace/flask_catalog/my_app/__init__.py
-my_app.catalog.models|/home/oracle/workspace/flask_catalog/my_app/catalog/models.py
-my_app.catalog.views|/home/oracle/workspace/flask_catalog/my_app/catalog/views.py
 run|/home/oracle/workspace/flask_catalog/run.py
