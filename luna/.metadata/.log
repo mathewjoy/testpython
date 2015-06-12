@@ -6042,3 +6042,45 @@ java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfigu
 	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
 	at java.util.TimerThread.mainLoop(Timer.java:555)
 	at java.util.TimerThread.run(Timer.java:505)
+
+!ENTRY org.python.pydev.shared_core 4 4 2015-06-12 04:20:16.151
+!MESSAGE java.io.IOException: Cannot run program "/home/oracle" (in directory "/home/oracle/workspace/luna/ProgrammingPython"): error=13, Permission denied
+!STACK 0
+java.lang.RuntimeException: java.io.IOException: Cannot run program "/home/oracle" (in directory "/home/oracle/workspace/luna/ProgrammingPython"): error=13, Permission denied
+	at org.python.pydev.runners.SimpleRunner.run(SimpleRunner.java:311)
+	at org.python.pydev.runners.SimpleRunner.run(SimpleRunner.java:277)
+	at org.python.pydev.runners.SimpleRunner.runAndGetOutput(SimpleRunner.java:328)
+	at org.python.pydev.builder.pylint.PyLintVisitor$PyLintThread.passPyLint(PyLintVisitor.java:231)
+	at org.python.pydev.builder.pylint.PyLintVisitor$PyLintThread.run(PyLintVisitor.java:113)
+Caused by: java.io.IOException: Cannot run program "/home/oracle" (in directory "/home/oracle/workspace/luna/ProgrammingPython"): error=13, Permission denied
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1041)
+	at java.lang.Runtime.exec(Runtime.java:617)
+	at org.python.pydev.shared_core.process.ProcessUtils.createProcess(ProcessUtils.java:103)
+	at org.python.pydev.runners.SimpleRunner.createProcess(SimpleRunner.java:50)
+	at org.python.pydev.runners.SimpleRunner.run(SimpleRunner.java:309)
+	... 4 more
+Caused by: java.io.IOException: error=13, Permission denied
+	at java.lang.UNIXProcess.forkAndExec(Native Method)
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:135)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:130)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1022)
+	... 8 more
+!SESSION 2015-06-12 04:20:25.003 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-06-12 04:20:26.775
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)

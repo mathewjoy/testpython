@@ -1,38 +1,40 @@
 -- VERSION_4
 -- START DISKCACHE
 /home/oracle/workspace/luna/.metadata/.plugins/org.eclipse.core.resources/.projects/ProgrammingPython/com.python.pydev.analysis/v2_indexcache
-make_db_file|1423625582000|/home/oracle/workspace/programmingpython/make_db_file.py
-dump_db_names|1423625618000|/home/oracle/workspace/programmingpython/dump_db_names.py
-make_db_pickle|1423538930000|/home/oracle/workspace/programmingpython/make_db_pickle.py
-load_db_shelve|1423543052000|/home/oracle/workspace/programmingpython/load_db_shelve.py
 load_db_file|1423625555000|/home/oracle/workspace/programmingpython/load_db_file.py
 initdata|1423450382000|/home/oracle/workspace/programmingpython/initdata.py
-writeback_db_shelve|1423541593000|/home/oracle/workspace/programmingpython/writeback_db_shelve.py
 make_db_shelve|1423541593000|/home/oracle/workspace/programmingpython/make_db_shelve.py
-ch2_p0|1424835863000|/home/oracle/workspace/programmingpython/ch2_p0.py
-person_class|1424554935000|/home/oracle/workspace/programmingpython/person_class.py
 load_db_pickle|1423541193000|/home/oracle/workspace/programmingpython/load_db_pickle.py
+person_class|1424554935000|/home/oracle/workspace/programmingpython/person_class.py
 manager_class|1423890438000|/home/oracle/workspace/programmingpython/manager_class.py
+dump_db_names|1423625618000|/home/oracle/workspace/programmingpython/dump_db_names.py
+make_db_file|1423625582000|/home/oracle/workspace/programmingpython/make_db_file.py
+make_db_pickle|1423538930000|/home/oracle/workspace/programmingpython/make_db_pickle.py
+load_db_shelve|1423543052000|/home/oracle/workspace/programmingpython/load_db_shelve.py
+writeback_db_shelve|1423541593000|/home/oracle/workspace/programmingpython/writeback_db_shelve.py
+ch2_more|1426645863000|/home/oracle/workspace/programmingpython/ch2_more.py
+ch2_p0|1434097159000|/home/oracle/workspace/programmingpython/ch2_p0.py
 -- END DISKCACHE
 -- START DICTIONARY
-14
-14=Person.__init__
+15
+15=Person.__init__
 9=make_db_file
 6=dump_db_names
 7=make_db_pickle
 4=load_db_shelve
-13=Manager
+14=Manager
 8=load_db_file
 1=initdata
+11=ch2_more
 5=writeback_db_shelve
 3=make_db_shelve
-11=person_class
+12=person_class
 2=load_db_pickle
 10=manager_class
-12=Person
+13=Person
 -- END DICTIONARY
 -- START TREE 1
-13
+14
 bob|1|bob!11@
 db|6|db!19@db!11@db!27@db!35@db!43@db!51@
 dbf|2|dbf!19@dbf!59@
@@ -40,7 +42,8 @@ end|4|ENDDB!67@ENDREC!67@ENDDB!75@ENDREC!75@
 fil|4|file_name!35@file_name!75@file_name!19@file_name!67@
 loa|1|loadDb!66@
 man|1|Manager!81@
-per|1|Person!89@
+mor|1|more!90@
+per|1|Person!97@
 pic|1|pickle_fn!59@
 rec|2|RECSEP!75@RECSEP!67@
 sue|2|sue!11@sue!35@
@@ -49,14 +52,14 @@ wri|1|writeDb!74@
 -- END TREE
 -- START TREE 2
 10
-__i|2|__init__!12&90@__init__!13&82@
-__s|1|__str__!12&90@
-age|1|age!14&91@
-bob|1|bob!12&91@
-giv|2|giveRaise!13&82@giveRaise!12&90@
-job|1|job!14&91@
-las|1|lastName!13&82@
-nam|1|name!14&91@
-pay|1|pay!14&91@
-sue|1|sue!12&91@
+__i|2|__init__!13&98@__init__!14&82@
+__s|1|__str__!13&98@
+age|1|age!15&99@
+bob|1|bob!13&99@
+giv|2|giveRaise!14&82@giveRaise!13&98@
+job|1|job!15&99@
+las|1|lastName!14&82@
+nam|1|name!15&99@
+pay|1|pay!15&99@
+sue|1|sue!13&99@
 -- END TREE

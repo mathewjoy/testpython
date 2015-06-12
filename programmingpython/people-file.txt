@@ -1,19 +1,19 @@
-tom
-pay==>20000
-job==>None
-age==>50
-name==>'Tom'
+bob
+age==>42
+pay==>30000
+name==>'Bob Smith'
+job==>'dev'
 EndRec.
 sue
-pay==>40000
-job==>'hdw'
 age==>45
+pay==>40000
 name==>'Sue Jones'
+job==>'hdw'
 EndRec.
-bob
-pay==>30000
-job==>'dev'
-age==>42
-name==>'Bob Smith'
+tom
+age==>50
+pay==>20000
+name==>'Tom'
+job==>None
 EndRec.
 EndDb.

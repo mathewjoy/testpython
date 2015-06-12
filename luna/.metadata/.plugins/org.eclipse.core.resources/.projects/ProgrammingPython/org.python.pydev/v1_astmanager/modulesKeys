@@ -1,4 +1,5 @@
 MODULES_MANAGER_V2
+ch2_more|/home/oracle/workspace/programmingpython/ch2_more.py
 ch2_p0|/home/oracle/workspace/programmingpython/ch2_p0.py
 dump_db_names|/home/oracle/workspace/programmingpython/dump_db_names.py
 initdata|/home/oracle/workspace/programmingpython/initdata.py
